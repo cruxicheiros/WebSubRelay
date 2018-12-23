@@ -1,0 +1,11 @@
+{
+  "name": "websubrelay",
+  "version": "1.0.0",
+  "description": "Subscribes to WebSub hubs and relays updates to clients via WebSockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
